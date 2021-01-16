@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "D:\\AT\\src\\test\\java\\scenarios",
+        features = "D:\\AT2\\src\\test\\java\\scenarios",
         glue = "steps",
         tags = "@4"
 )
